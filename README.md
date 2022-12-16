@@ -1,1 +1,1 @@
-## Flask template with basic Google Auth
+## Simple Flask template with basic Google Auth
