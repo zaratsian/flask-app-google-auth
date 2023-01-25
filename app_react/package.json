@@ -1,0 +1,12 @@
+{
+    "name": "my-package",
+    "version": "1.0.0",
+    "description": "A package for doing something cool.",
+    "main": "App.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "John Doe",
+    "license": "MIT"
+  }
+  
